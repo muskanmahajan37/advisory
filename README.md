@@ -1,2 +1,3 @@
 # advisory
-A advisory repo for receive question
+
+> 欢迎在这里分享你遇到的技术问题
